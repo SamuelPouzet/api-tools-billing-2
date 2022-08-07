@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64f75f9d-6dbe-4e40-94ad-2702f110fb57" name="Changes" comment="skeleton">
+      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.laminas-ci.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COPYRIGHT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vagrantfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/application.config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/autoload/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/autoload/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/autoload/api-tools-config.global.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/autoload/api-tools-mvc-auth-oauth2-override.global.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/autoload/global-development.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/autoload/global.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/autoload/local.php.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/autoload/user.global.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/development.config.php.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/modules.config.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/modules.config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Application/config/module.config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Application/src/Controller/IndexController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Application/src/Module.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Application/test/Controller/IndexControllerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Application/test/Controller/ZZIndexControllerDevModeTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Application/view/application/index/index.phtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Application/view/error/404.phtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Application/view/error/index.phtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Application/view/layout/layout.phtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/billing/Module.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/billing/config/module.config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phpcs.xml.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phpunit.xml.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psalm-baseline.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psalm.xml.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ag-hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ApiTools/constants.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2D1uHAwZaJI9OAE0zY8jKILVoeV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64f75f9d-6dbe-4e40-94ad-2702f110fb57" name="Changes" comment="" />
+      <created>1659878821297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659878821297</updated>
+      <workItem from="1659878822670" duration="1954000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="skeleton" />
+    <option name="LAST_COMMIT_MESSAGE" value="skeleton" />
+  </component>
+</project>
